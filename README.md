@@ -1,5 +1,5 @@
 # algorithms
-This repository contains my projects from algorithms cource
+This repository contains my algorithms projects
 
 ## Project 1: Psychic Modeling, brute force vs. heuristic design
 
